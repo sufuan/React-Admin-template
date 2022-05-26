@@ -36,9 +36,9 @@ export default function WidgetLg() {
               alt=""
               className="widgetLgImg"
             />
-            <span className="widgetLgName">Susan Carol</span>
+            <span className="widgetLgName">Mursalin sonet</span>
           </td>
-          <td className="widgetLgDate">2 Jun 2021</td>
+          <td className="widgetLgDate">28 April, 2022</td>
           <td className="widgetLgAmount">$122.00</td>
           <td className="widgetLgStatus">
             <Button type="Declined" />
@@ -51,9 +51,9 @@ export default function WidgetLg() {
               alt=""
               className="widgetLgImg"
             />
-            <span className="widgetLgName">Susan Carol</span>
+            <span className="widgetLgName">Mursalin sonet</span>
           </td>
-          <td className="widgetLgDate">2 Jun 2021</td>
+          <td className="widgetLgDate">28 April, 2022</td>
           <td className="widgetLgAmount">$122.00</td>
           <td className="widgetLgStatus">
             <Button type="Pending" />
@@ -66,9 +66,9 @@ export default function WidgetLg() {
               alt=""
               className="widgetLgImg"
             />
-            <span className="widgetLgName">Susan Carol</span>
+            <span className="widgetLgName">Mursalin sonet</span>
           </td>
-          <td className="widgetLgDate">2 Jun 2021</td>
+          <td className="widgetLgDate">28 April, 2022</td>
           <td className="widgetLgAmount">$122.00</td>
           <td className="widgetLgStatus">
             <Button type="Approved" />
